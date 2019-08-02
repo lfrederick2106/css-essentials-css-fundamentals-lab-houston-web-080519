@@ -22,7 +22,8 @@ featured-property {
 
 details {
   display: block;
-  div: {
+}
+
+div: {
     float: left;
   }
-}
